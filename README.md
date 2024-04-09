@@ -16,7 +16,7 @@ Don't be a stranger feel free to reach out to me.
 </a>
 
 ### 🔭 Stuff I've worked with ...
-<img align="left" height="50" width="50" style="margin-right: 4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />
+<img align="left" height="50" width="50" style="margin-right: 4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
 <img align="left" height="50" width="50" style="margin-right: 4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img align="left" height="50" width="50" style="margin-right: 4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 <img align="left" height="50" width="50" style="margin-right: 4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
