@@ -2,8 +2,8 @@
 
 A little bit about me..
 
-I build and maintain web applications for the last 3 years, Bringing forth expertise in managing, installation, testing
-and maintenance of web systems. Using JavaScript/TypeScript and laravel.
+I build and maintain web applications for the last 3 years, Bringing forth expertise in management, installation, testing
+and maintenance of web systems. Using JavaScript/TypeScript and laravel. And also leading teams.
 
 I always open to learn new technologies and improve my skills, looking for new opportunities to learn and grow.
 I love exploring tools that help with daily tasks and improve not only code quality but also developer experience.
