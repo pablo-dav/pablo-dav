@@ -12,7 +12,7 @@ Don't be a stranger feel free to reach out to me.
 
 ### 📫 How to reach me: ...
 <a href="mailto:pablodavi81@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="My Email" width="150" height="35">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="My Email" width="100" height="35">
 </a>
 
 ### 🔭 Stuff I've worked with ...
@@ -26,7 +26,7 @@ Don't be a stranger feel free to reach out to me.
 <img align="left" height="50" width="50" style="margin-right: 4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
 <img align="left" height="50" width="50" style="margin-right: 4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 <img align="left" height="50" width="50" style="margin-right: 4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
-<img align="left" height="50" width="50" style="margin-right: 4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img align="left" height="50" width="50" style="margin-right: 4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 <img align="left" height="50" width="50" style="margin-right: 4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <br/>
 
